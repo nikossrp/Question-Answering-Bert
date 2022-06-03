@@ -1,6 +1,6 @@
 # Question-Answering-Bert  - assignment 4 (cont'd)
 
-**Q1**
+**Q1** 
 for Q1 check the repository about [Vaccine Sentiment Classifier](https://github.com/nikossrp/Vaccine-Sentiment-Classifier/tree/main/models/4\)%20Pre-trained%20Bert%20Vaccine%20Sentiment%20Classifier).
 
 **Q2**  
