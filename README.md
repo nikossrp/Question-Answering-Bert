@@ -1,7 +1,7 @@
 # Question-Answering-Bert  - assignment 4 (cont'd)
 
 **Q1**  
-About Q1 check the repository [Vaccine Sentiment Classifier](https://github.com/nikossrp/Vaccine-Sentiment-Classifier/tree/main/models/4\)%20Pre-trained%20Bert%20Vaccine%20Sentiment%20Classifier).
+About Q1 check the repository [Vaccine Sentiment Classifier](https://github.com/nikossrp/Vaccine-Sentiment-Classifier/tree/main/models/4\)%20Pre-trained%20Bert%20Vaccine%20Sentiment%20Classifier). 
 
 **Q2**  
 In this jupyter notebook I have developed a model for question answering on the dataset [SQuAD 2.0](https://rajpurkar.github.io/SQuAD-explorer/).   
